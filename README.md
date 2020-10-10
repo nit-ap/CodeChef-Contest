@@ -1,4 +1,1 @@
 # CodeChef-Contest
-
-
-Codechef Contest 
